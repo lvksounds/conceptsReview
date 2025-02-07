@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lucas.freitas\\source\\repos\\DotNetConcetpsReview\\DotNetConcepts.Review\\",
+  "WorkspaceRootPath": "C:\\Users\\lucas.freitas\\source\\repos\\TestesTecnicos\\conceptsReview\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BFB8D6E-3795-4988-91A9-C8466A154D8B}|AlgorythmsAndDataEstructs\\AlgorythmsAndDataEstructs.csproj|c:\\users\\lucas.freitas\\source\\repos\\dotnetconcetpsreview\\dotnetconcepts.review\\algorythmsanddataestructs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BFB8D6E-3795-4988-91A9-C8466A154D8B}|AlgorythmsAndDataEstructs\\AlgorythmsAndDataEstructs.csproj|solutionrelative:algorythmsanddataestructs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BFB8D6E-3795-4988-91A9-C8466A154D8B}|AlgorythmsAndDataEstructs\\AlgorythmsAndDataEstructs.csproj|c:\\users\\lucas.freitas\\source\\repos\\dotnetconcetpsreview\\dotnetconcepts.review\\algorythmsanddataestructs\\challenges\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BFB8D6E-3795-4988-91A9-C8466A154D8B}|AlgorythmsAndDataEstructs\\AlgorythmsAndDataEstructs.csproj|solutionrelative:algorythmsanddataestructs\\challenges\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BFB8D6E-3795-4988-91A9-C8466A154D8B}|AlgorythmsAndDataEstructs\\AlgorythmsAndDataEstructs.csproj|c:\\users\\lucas.freitas\\source\\repos\\dotnetconcetpsreview\\dotnetconcepts.review\\algorythmsanddataestructs\\challenges\\biggernumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BFB8D6E-3795-4988-91A9-C8466A154D8B}|AlgorythmsAndDataEstructs\\AlgorythmsAndDataEstructs.csproj|solutionrelative:algorythmsanddataestructs\\challenges\\biggernumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BFB8D6E-3795-4988-91A9-C8466A154D8B}|AlgorythmsAndDataEstructs\\AlgorythmsAndDataEstructs.csproj|c:\\users\\lucas.freitas\\source\\repos\\dotnetconcetpsreview\\dotnetconcepts.review\\algorythmsanddataestructs\\challenges\\arraysorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BFB8D6E-3795-4988-91A9-C8466A154D8B}|AlgorythmsAndDataEstructs\\AlgorythmsAndDataEstructs.csproj|c:\\users\\lucas.freitas\\source\\repos\\testestecnicos\\conceptsreview\\algorythmsanddataestructs\\challenges\\arraysorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BFB8D6E-3795-4988-91A9-C8466A154D8B}|AlgorythmsAndDataEstructs\\AlgorythmsAndDataEstructs.csproj|solutionrelative:algorythmsanddataestructs\\challenges\\arraysorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFB8D6E-3795-4988-91A9-C8466A154D8B}|AlgorythmsAndDataEstructs\\AlgorythmsAndDataEstructs.csproj|c:\\users\\lucas.freitas\\source\\repos\\testestecnicos\\conceptsreview\\algorythmsanddataestructs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFB8D6E-3795-4988-91A9-C8466A154D8B}|AlgorythmsAndDataEstructs\\AlgorythmsAndDataEstructs.csproj|solutionrelative:algorythmsanddataestructs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ArraySorting.cs",
-              "DocumentMoniker": "C:\\Users\\lucas.freitas\\source\\repos\\DotNetConcetpsReview\\DotNetConcepts.Review\\AlgorythmsAndDataEstructs\\Challenges\\ArraySorting.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\source\\repos\\TestesTecnicos\\conceptsReview\\AlgorythmsAndDataEstructs\\Challenges\\ArraySorting.cs",
               "RelativeDocumentMoniker": "AlgorythmsAndDataEstructs\\Challenges\\ArraySorting.cs",
-              "ToolTip": "C:\\Users\\lucas.freitas\\source\\repos\\DotNetConcetpsReview\\DotNetConcepts.Review\\AlgorythmsAndDataEstructs\\Challenges\\ArraySorting.cs",
+              "ToolTip": "C:\\Users\\lucas.freitas\\source\\repos\\TestesTecnicos\\conceptsReview\\AlgorythmsAndDataEstructs\\Challenges\\ArraySorting.cs",
               "RelativeToolTip": "AlgorythmsAndDataEstructs\\Challenges\\ArraySorting.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T19:51:16.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BiggerNumber.cs",
-              "DocumentMoniker": "C:\\Users\\lucas.freitas\\source\\repos\\DotNetConcetpsReview\\DotNetConcepts.Review\\AlgorythmsAndDataEstructs\\Challenges\\BiggerNumber.cs",
-              "RelativeDocumentMoniker": "AlgorythmsAndDataEstructs\\Challenges\\BiggerNumber.cs",
-              "ToolTip": "C:\\Users\\lucas.freitas\\source\\repos\\DotNetConcetpsReview\\DotNetConcepts.Review\\AlgorythmsAndDataEstructs\\Challenges\\BiggerNumber.cs*",
-              "RelativeToolTip": "AlgorythmsAndDataEstructs\\Challenges\\BiggerNumber.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T17:46:58.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ReverseString.cs",
-              "DocumentMoniker": "C:\\Users\\lucas.freitas\\source\\repos\\DotNetConcetpsReview\\DotNetConcepts.Review\\AlgorythmsAndDataEstructs\\Challenges\\ReverseString.cs",
-              "RelativeDocumentMoniker": "AlgorythmsAndDataEstructs\\Challenges\\ReverseString.cs",
-              "ToolTip": "C:\\Users\\lucas.freitas\\source\\repos\\DotNetConcetpsReview\\DotNetConcepts.Review\\AlgorythmsAndDataEstructs\\Challenges\\ReverseString.cs",
-              "RelativeToolTip": "AlgorythmsAndDataEstructs\\Challenges\\ReverseString.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T12:41:56.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lucas.freitas\\source\\repos\\DotNetConcetpsReview\\DotNetConcepts.Review\\AlgorythmsAndDataEstructs\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\source\\repos\\TestesTecnicos\\conceptsReview\\AlgorythmsAndDataEstructs\\Program.cs",
               "RelativeDocumentMoniker": "AlgorythmsAndDataEstructs\\Program.cs",
-              "ToolTip": "C:\\Users\\lucas.freitas\\source\\repos\\DotNetConcetpsReview\\DotNetConcepts.Review\\AlgorythmsAndDataEstructs\\Program.cs*",
-              "RelativeToolTip": "AlgorythmsAndDataEstructs\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\lucas.freitas\\source\\repos\\TestesTecnicos\\conceptsReview\\AlgorythmsAndDataEstructs\\Program.cs",
+              "RelativeToolTip": "AlgorythmsAndDataEstructs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T12:31:10.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T12:31:10.59Z"
             }
           ]
         }

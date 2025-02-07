@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas.freitas\\source\\repos\\DotNetConcetpsReview\\DotNetConcepts.Review\\AlgorythmsAndDataEstructs\\AlgorythmsAndDataEstructs.csproj",
+      "projectUniqueName": "C:\\Users\\lucas.freitas\\source\\repos\\TestesTecnicos\\conceptsReview\\AlgorythmsAndDataEstructs\\AlgorythmsAndDataEstructs.csproj",
       "projectName": "AlgorythmsAndDataEstructs",
-      "projectPath": "C:\\Users\\lucas.freitas\\source\\repos\\DotNetConcetpsReview\\DotNetConcepts.Review\\AlgorythmsAndDataEstructs\\AlgorythmsAndDataEstructs.csproj",
+      "projectPath": "C:\\Users\\lucas.freitas\\source\\repos\\TestesTecnicos\\conceptsReview\\AlgorythmsAndDataEstructs\\AlgorythmsAndDataEstructs.csproj",
       "packagesPath": "C:\\Users\\lucas.freitas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas.freitas\\source\\repos\\DotNetConcetpsReview\\DotNetConcepts.Review\\AlgorythmsAndDataEstructs\\obj\\",
+      "outputPath": "C:\\Users\\lucas.freitas\\source\\repos\\TestesTecnicos\\conceptsReview\\AlgorythmsAndDataEstructs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas.freitas\\AppData\\Roaming\\NuGet\\NuGet.Config",
