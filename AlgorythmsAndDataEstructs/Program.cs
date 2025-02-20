@@ -2,9 +2,13 @@
 
 //ReverseTheString.Reverse("hello");
 
-//int[] ints = new int[] { 1, 2, 3, 4, 2, 4, 15, 7, 9, 10 , 3, 11 };
-//BiggerNumber.FoundingTheBiggerNumber(ints);
+int[] ints = Arrays.FindHigherAndlowerNums(Arrays.ints).ToArray();
 
-int[] numArr = ArraysAndRecursiveFunctions.ints1;
+foreach (var i in ints)
+  {
+    Console.WriteLine(i);
+  }
 
-Console.WriteLine(ArraysAndRecursiveFunctions.Sum(numArr));
+
+Console.WriteLine();
+//Console.WriteLine(ArraysAndRecursiveFunctions.Count(numArr));

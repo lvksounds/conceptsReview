@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Runtime.InteropServices.JavaScript.JSType;
+﻿
 
 namespace AlgorythmsAndDataEstructs.Challenges
 {
@@ -29,12 +24,12 @@ namespace AlgorythmsAndDataEstructs.Challenges
             return 1 + Count(arr.Skip(1).ToArray());
         }
 
-        // encontrar o mais numero do array 
+        // encontrar o maior numero do array -´nao consegui :/
 
         public static int FindHigherNum(int[] arr)
         {
             if (arr.Length == 0) return 0;
-
+            return 0;
             
         }
     }
