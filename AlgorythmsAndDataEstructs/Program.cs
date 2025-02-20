@@ -1,14 +1,26 @@
 ﻿using AlgorythmsAndDataEstructs.Challenges;
+using AlgorythmsAndDataEstructs.Challenges;
 
-//ReverseTheString.Reverse("hello");
+// int[] ints = { 2, 4, 6, 8, 10, 12, 1, 16, 18, 20 };
+// int[] ints2 = { 2, 4, 2, 8, 10, 11, 12, 10, 18, 20, 21 };
 
-int[] ints = Arrays.FindHigherAndlowerNums(Arrays.ints).ToArray();
+// Console.WriteLine(Arrays.FindHigherAndlowerNums(ints).min);
+// Console.WriteLine(Arrays.FindHigherAndlowerNums(ints).max);
 
-foreach (var i in ints)
-  {
-    Console.WriteLine(i);
-  }
+// int[] numArr = Arrays.DuplicityRemove(ints2);
 
+// foreach(var num in numArr) {
+//   Console.WriteLine(num);
+// }
 
-Console.WriteLine();
-//Console.WriteLine(ArraysAndRecursiveFunctions.Count(numArr));
+// Listas encadeadas
+
+var linkedList = new MyLinkedList<int>();
+linkedList.Add(1);
+linkedList.Add(2);
+linkedList.Add(3);
+linkedList.Add(4);
+linkedList.Add(5);
+
+//linkedList.Display();
+linkedList.RevertList();
