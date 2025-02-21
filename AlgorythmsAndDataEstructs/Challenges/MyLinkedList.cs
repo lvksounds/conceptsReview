@@ -56,25 +56,25 @@ namespace AlgorythmsAndDataEstructs.Challenges
             while(current != null)
             {
                 Console.WriteLine($"Current: {current.Data }");
-                Console.WriteLine($"previous: {previous.Data}");
-                previous = current;
+                //Console.WriteLine($"previous: {previous.Data}");
+                //previous = current;
                 current = current.Next;
             }
             Console.WriteLine();
         }
         public void RevertList() {
-             var current = head;
-             var previous = head;
-             List<T> nums = new List<T>();
-             while(current != null)
+             Node<T> previous = null;
+             Node<T> current = head;
+             Node<T> next = null;
+
+             while (current != null)
              {
-               nums.Add(current.Data);
-               current = current.Next;
+                next = current.Next;
+                current.Next = previous;
+                previous = current;
+                current = next;
              }
-             for (var i = nums.ToArray().Length ; i > 0; i--) 
-             {
-                Console.WriteLine(nums[i - 1]);
-             }
+             head = previous;
         }
     }
 }

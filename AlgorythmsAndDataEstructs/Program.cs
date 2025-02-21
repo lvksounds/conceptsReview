@@ -22,5 +22,10 @@ linkedList.Add(3);
 linkedList.Add(4);
 linkedList.Add(5);
 
-//linkedList.Display();
+Console.WriteLine("Lista normal");
+linkedList.Display();
+
 linkedList.RevertList();
+
+Console.WriteLine("Lista invertida");
+linkedList.Display();
